@@ -1,41 +1,29 @@
-## Welcome to GitHub Pages
+This GitHub branch contains the code for my Computer Science Project: Learning how to Implement Mathematical Proofs in Agda
 
-https://github.com/adsneap/CSProject/edit/gh-pages/ReportCode.html
+Most of the files are from the TypeTopology library, developed by Martin Escardo and is found here: https://www.cs.bham.ac.uk/~mhe/TypeTopology/
 
-https://github.com/adsneap/CSProject/blob/gh-pages/ReportCode.md
+My code is fully contained within the Report Code file, found here: https://adsneap.github.io/CSProject/ReportCode.html
 
-You can use the [editor on GitHub](https://github.com/adsneap/CSProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The code consists of several local modules. I have labelled any module from the Type Topology library with a comment in the file. Any module I have written I have preceded with an R when opened in another sub-module. A list of the local modules follows below: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[MoreNaturalProperties](https://adsneap.github.io/CSProject/ReportCode.html#378)
+[NaturalsOrderExtended](https://adsneap.github.io/CSProject/ReportCode.html#3141)
+[NaturalsMultiplication](https://adsneap.github.io/CSProject/ReportCode.html#12220)
+[NaturalsDivision](https://adsneap.github.io/CSProject/ReportCode.html#22229)
+[HCF](https://adsneap.github.io/CSProject/ReportCode.html#34692)
+[Integers](https://adsneap.github.io/CSProject/ReportCode.html#42635)
+[IntegersProperties](https://adsneap.github.io/CSProject/ReportCode.html#45554)
+[IntegersOrder](https://adsneap.github.io/CSProject/ReportCode.html#84461)
+[IntegersDivision](https://adsneap.github.io/CSProject/ReportCode.html#108772)
+[IntegersHCF](https://adsneap.github.io/CSProject/ReportCode.html#118376)
+[ncRationals](https://adsneap.github.io/CSProject/ReportCode.html#127517)
+[FieldAxioms](https://adsneap.github.io/CSProject/ReportCode.html#138937)
+[Rationals](https://adsneap.github.io/CSProject/ReportCode.html#140975)
+[DedekindReals](https://adsneap.github.io/CSProject/ReportCode.html#177601)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adsneap/CSProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
