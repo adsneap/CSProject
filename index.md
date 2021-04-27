@@ -1,10 +1,10 @@
 This GitHub branch contains the code for my Computer Science Project: Learning how to Implement Mathematical Proofs in Agda
 
-Most of the files are from the TypeTopology library, developed by Martin Escardo and is found here: https://www.cs.bham.ac.uk/~mhe/TypeTopology/
+Most of the files are from the TypeTopology library, developed by Martin Escardo and is found here: [https://www.cs.bham.ac.uk/~mhe/TypeTopology/](https://www.cs.bham.ac.uk/~mhe/TypeTopology/)
 
-The files I have written as part of this project are indexed in a modular format here: https://adsneap.github.io/CSProject/AndrewIndex.html
+The files I have written as part of this project are indexed in a modular format here: [https://adsneap.github.io/CSProject/AndrewIndex.html](https://adsneap.github.io/CSProject/AndrewIndex.html)
 
-My code can be seen fully contained in one file, found here: https://adsneap.github.io/CSProject/ReportCode.html
+My code can be seen fully contained in one file, found here: [https://adsneap.github.io/CSProject/ReportCode.html](https://adsneap.github.io/CSProject/ReportCode.html)
 
 I have labelled any module from the Type Topology library with a comment in the file. Any module I have written I have preceded with an R when opened in another sub-module. 
 
