@@ -20,7 +20,7 @@ A list of the modules follows below:
 
 5. [HCF](https://adsneap.github.io/CSProject/HCF.html)
 
-6. [Integers](https://adsneap.github.io/CSProject/Integers.html
+6. [Integers](https://adsneap.github.io/CSProject/Integers.html)
 
 7. [IntegersProperties](https://adsneap.github.io/CSProject/IntegersProperties.html)
 
