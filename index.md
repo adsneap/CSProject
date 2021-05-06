@@ -1,39 +1,44 @@
 This GitHub branch contains the code for my Computer Science Project: Learning how to Implement Mathematical Proofs in Agda
 
-Most of the files are from the TypeTopology library, developed by Martin Escardo and is found here: https://www.cs.bham.ac.uk/~mhe/TypeTopology/
+Most of the files are from the TypeTopology library, developed by Martin Escardo and is found here: [https://www.cs.bham.ac.uk/~mhe/TypeTopology/](https://www.cs.bham.ac.uk/~mhe/TypeTopology/)
 
-My code is fully contained within the Report Code file, found here: https://adsneap.github.io/CSProject/ReportCode.html
+The files I have written as part of this project are indexed in a modular format here: [https://adsneap.github.io/CSProject/AndrewIndex.html](https://adsneap.github.io/CSProject/AndrewIndex.html)
 
-The code consists of several local modules. I have labelled any module from the Type Topology library with a comment in the file. Any module I have written I have preceded with an R when opened in another sub-module. A list of the local modules follows below: 
+My code can be seen fully contained in one file, found here: [https://adsneap.github.io/CSProject/ReportCode.html](https://adsneap.github.io/CSProject/ReportCode.html)
 
-[MoreNaturalProperties](https://adsneap.github.io/CSProject/ReportCode.html#378)
+I have labelled any module from the Type Topology library with a comment in the file. Any module I have written I have preceded with an R when opened in another sub-module. 
 
-[NaturalsOrderExtended](https://adsneap.github.io/CSProject/ReportCode.html#3141)
+A list of the modules follows below: 
 
-[NaturalsMultiplication](https://adsneap.github.io/CSProject/ReportCode.html#12220)
+1. [MoreNaturalProperties](https://adsneap.github.io/CSProject/MoreNaturalProperties.html)
 
-[NaturalsDivision](https://adsneap.github.io/CSProject/ReportCode.html#22229)
+2. [NaturalsOrderExtended](https://adsneap.github.io/CSProject/NaturalsOrderExtended.html)
 
-[HCF](https://adsneap.github.io/CSProject/ReportCode.html#34692)
+3. [NaturalsMultiplication](https://adsneap.github.io/CSProject/NaturalsMultiplication.html)
 
-[Integers](https://adsneap.github.io/CSProject/ReportCode.html#42635)
+4. [NaturalsDivision](https://adsneap.github.io/CSProject/NaturalsDivision.html)
 
-[IntegersProperties](https://adsneap.github.io/CSProject/ReportCode.html#45554)
+5. [HCF](https://adsneap.github.io/CSProject/HCF.html)
 
-[IntegersOrder](https://adsneap.github.io/CSProject/ReportCode.html#84461)
+6. [Integers](https://adsneap.github.io/CSProject/Integers.html)
 
-[IntegersDivision](https://adsneap.github.io/CSProject/ReportCode.html#108772)
+7. [IntegersProperties](https://adsneap.github.io/CSProject/IntegersProperties.html)
 
-[IntegersHCF](https://adsneap.github.io/CSProject/ReportCode.html#118376)
+8. [IntegersOrder](https://adsneap.github.io/CSProject/IntegersOrder.html)
 
-[ncRationals](https://adsneap.github.io/CSProject/ReportCode.html#127517)
+9. [IntegersDivision](https://adsneap.github.io/CSProject/IntegersDivision.html)
 
-[FieldAxioms](https://adsneap.github.io/CSProject/ReportCode.html#138937)
+10. [IntegersHCF](https://adsneap.github.io/CSProject/IntegersHCF.html)
 
-[Rationals](https://adsneap.github.io/CSProject/ReportCode.html#140975)
+11. [ncRationals](https://adsneap.github.io/CSProject/ncRationals.html)
 
-[DedekindReals](https://adsneap.github.io/CSProject/ReportCode.html#177601)
+12. [FieldAxioms](https://adsneap.github.io/CSProject/FieldAxioms.html)
 
+13. [Rationals](https://adsneap.github.io/CSProject/Rationals.html)
+
+14. [DedekindReals](https://adsneap.github.io/CSProject/DedekindReals.html)
+
+[ReportCode](https://adsneap.github.io/CSProject/ReportCode.html)
 
 
 
