@@ -4,10 +4,6 @@ Most of the files are from the TypeTopology library, developed by Martin Escardo
 
 The files I have written as part of this project are indexed in a modular format here: [https://adsneap.github.io/CSProject/AndrewIndex.html](https://adsneap.github.io/CSProject/AndrewIndex.html)
 
-My code can be seen fully contained in one file, found here: [https://adsneap.github.io/CSProject/ReportCode.html](https://adsneap.github.io/CSProject/ReportCode.html)
-
-I have labelled any module from the Type Topology library with a comment in the file. Any module I have written I have preceded with an R when opened in another sub-module. 
-
 A list of the modules follows below: 
 
 1. [MoreNaturalProperties](https://adsneap.github.io/CSProject/MoreNaturalProperties.html)
@@ -38,7 +34,10 @@ A list of the modules follows below:
 
 14. [DedekindReals](https://adsneap.github.io/CSProject/DedekindReals.html)
 
-[ReportCode](https://adsneap.github.io/CSProject/ReportCode.html)
+
+My code can be seen fully contained in one file, found here: [https://adsneap.github.io/CSProject/ReportCode.html](https://adsneap.github.io/CSProject/ReportCode.html) 
+In this file, I have labelled any module from the Type Topology library with a comment in the file. Any module I have written I have preceded with an R when opened in another sub-module. 
+
 
 
 
